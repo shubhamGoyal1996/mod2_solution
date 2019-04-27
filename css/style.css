@@ -1,0 +1,242 @@
+body{
+    background-color: ;
+    font-family: sans-serif;
+}
+
+header{
+        text-align: center;
+}
+    
+
+@media only screen and (min-width: 992px) {
+    
+    #section1{
+        width: 31%;
+        float: left;
+        background-color: lightgray;
+        position: relative;
+        box-sizing: border-box;
+        border: 1px black solid;
+        margin:1%;
+        padding: 0% 2% 2% 2%;
+    }
+    
+    #section2{
+        width: 31%;
+        float: left;
+        background-color: lightgray;
+        position: relative;
+        box-sizing: border-box;
+        border: 1px black solid;
+        margin:1%;
+        padding: 0% 2% 2% 2%;
+    }
+    
+    #section3{
+        width: 31%;
+        float: left;
+        background-color: lightgray;
+        position: relative;
+        box-sizing: border-box;
+        border: 1px black solid;
+        margin:1%;
+        padding: 0% 2% 2% 2%;
+    }
+    
+    #title1{
+        background-color: pink;
+        position: absolute;
+        right: 0px;
+        border: 1px black solid;
+        margin:0% 0% 0% 0%; 
+        padding: 2%;
+    }
+    
+    #title2{
+        background-color: red;
+        position: absolute;
+        right: 0px;
+        border: 1px black solid;
+        margin:0% 0% 0% 0%; 
+        padding: 2%;
+    }
+    
+    #title3{
+        background-color: lightgoldenrodyellow;
+        position: absolute;
+        right: 0px;
+        border: 1px black solid;
+        margin:0% 0% 0% 0%; 
+        padding: 2%;
+    }
+    
+    .content{
+        margin: 15% 0% 0% 0%;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    
+    #section1{
+        width: 47%;
+        float: left;
+        background-color: lightgray;
+        position: relative;
+        box-sizing: border-box;
+        border: 1px black solid;
+        margin: 2% 1% 2% 2%;
+        padding: 0% 2% 2% 2%;
+    }
+    
+    #section2{
+        width: 47%;
+        float: left;
+        background-color: lightgray;
+        position: relative;
+        box-sizing: border-box;
+        border: 1px black solid;
+        margin: 2% 1% 2% 2%;
+        padding: 0% 2% 2% 2%;
+    }
+    
+    #section3{
+        width: 96%;
+        float: left;
+        background-color: lightgray;
+        position: relative;
+        box-sizing: border-box;
+        border: 1px black solid;
+        margin: 2% 2% 2% 2%;
+        padding: 0% 2% 2% 2%;
+    }
+    
+    #title1{
+        background-color: pink;
+        position: absolute;
+        right: 0px;
+        border: 1px black solid;
+        margin:0% 0% 0% 0%; 
+        padding: 2%;
+    }
+    
+    #title2{
+        background-color: red;
+        position: absolute;
+        right: 0px;
+        border: 1px black solid;
+        margin:0% 0% 0% 0%; 
+        padding: 2%;
+    }
+    
+    #title3{
+        background-color: lightgoldenrodyellow;
+        position: absolute;
+        right: 0px;
+        border: 1px black solid;
+        margin:0% 0% 0% 0%; 
+        padding: 2%;
+    }
+    
+    .content{
+        margin: 15% 0% 0% 0%;
+    }
+    
+    #content3{
+        margin: 10% 0% 0% 0%;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    
+    #section1{
+        width: 96%;
+        float: left;
+        background-color: lightgray;
+        position: relative;
+        box-sizing: border-box;
+        border: 1px black solid;
+        margin: 2% 2% 2% 2%;
+        padding: 0% 2% 2% 2%;
+    }
+    
+    #section2{
+        width: 96%;
+        float: left;
+        background-color: lightgray;
+        position: relative;
+        box-sizing: border-box;
+        border: 1px black solid;
+        margin: 2% 2% 2% 2%;
+        padding: 0% 2% 2% 2%;
+    }
+    
+    #section3{
+        width: 96%;
+        float: left;
+        background-color: lightgray;
+        position: relative;
+        box-sizing: border-box;
+        border: 1px black solid;
+        margin: 2% 2% 2% 2%;
+        padding: 0% 2% 2% 2%;
+    }
+    
+    #title1{
+        background-color: pink;
+        position: absolute;
+        right: 0px;
+        border: 1px black solid;
+        margin:0% 0% 0% 0%; 
+        padding: 2%;
+    }
+    
+    #title2{
+        background-color: red;
+        position: absolute;
+        right: 0px;
+        border: 1px black solid;
+        margin:0% 0% 0% 0%; 
+        padding: 2%;
+    }
+    
+    #title3{
+        background-color: lightgoldenrodyellow;
+        position: absolute;
+        right: 0px;
+        border: 1px black solid;
+        margin:0% 0% 0% 0%; 
+        padding: 2%;
+    }
+    
+    .content{
+        margin: 10% 0% 0% 0%;
+    }
+}
+
+
+/*
+between sections
+spacing between edges of sections and browser
+spacing between dummy test and section
+dummy text is pushed down so as to not overlap
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
